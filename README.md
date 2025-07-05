@@ -1,2 +1,3 @@
-# Video-Reference
-This is a repository of all code used in example and tutorial videos on the YouTube channel. All of this code is created in Visual Studio and will be in Visual Studio project format, and details may vary because of things like the game engine used.
+# Galacticc Games Video Reference Repository
+
+Any code created for example or tutorial purposes in our YouTube videos will be hosted in this repository. These will all be Visual Studio projects containing the necessary code and assets to replicate what we made in the video. Specifically, in order for the project to be stored here it will need to be in a *real* code language, not something node-based like an Unreal Engine blueprint.
