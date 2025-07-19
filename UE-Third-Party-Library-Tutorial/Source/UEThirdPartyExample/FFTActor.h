@@ -30,6 +30,9 @@
  // <Linux/LinuxPlatformCompilerPreSetup.h> also works but only includes the above header
  #endif
 
+// Uncomment below if you want to redefine the kiss_fft_scalar [May generate compiler and build warnings]
+// #define kiss_fft_scalar double
+
 PRAGMA_DEFAULT_VISIBILITY_START
 THIRD_PARTY_INCLUDES_START
 
@@ -42,9 +45,6 @@ PRAGMA_DEFAULT_VISIBILITY_END
 #include "FFTActor.generated.h"
 
 #define nfft 16 // number of samples in time and frequency domain
-
-// Uncomment below if you want to redefine the kiss_fft_scalar [May generate compiler and build warnings]
-// #define kiss_fft_scalar double
 
 UCLASS()
 // Logs FFT info to the screen when placed in an Unreal Engine Level
