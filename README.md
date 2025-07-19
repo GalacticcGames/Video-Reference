@@ -23,4 +23,4 @@ Any code created for example or tutorial purposes in our YouTube videos will be 
 
 Video | Directory 📂
 |------|------|
-| Example YT link | Example project directory |
+| <a href="https://youtu.be/mnzqI2qs898">How To Use Third Party Libraries Already Inside of Unreal Engine - KISS FFT UE Library Demo</a> | /<a href="https://github.com/GalacticcGames/Video-Reference/tree/main/UE-Third-Party-Library-Tutorial">UE-Third-Party-Library-Tutorial</a> |
